@@ -1,0 +1,6 @@
+{
+  "name": "E-Learning Platform",
+  "description": "Hệ thống học trực tuyến tích hợp trợ lý AI học tập, tự động định dạng tài liệu Word giáo án và liên kết video bài học YouTube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

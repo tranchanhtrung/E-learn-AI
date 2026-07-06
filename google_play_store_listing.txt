@@ -1,0 +1,51 @@
+======================================================================
+GOOGLE PLAY STORE LISTING ASSETS FOR: E-Learn AI Platform
+======================================================================
+
+1. THÔNG TIN CHUNG (GENERAL INFO)
+----------------------------------------------------------------------
+Tên ứng dụng (App Title): E-Learn AI
+Tên ngắn (Short Description): Hệ thống học trực tuyến thông minh tích hợp Trợ lý học tập AI 24/7.
+Mô tả chi tiết (Full Description):
+Chào mừng bạn đến với E-Learn AI - Nền tảng học tập trực tuyến thế hệ mới, được thiết kế để nâng cao hiệu suất học tập tối đa thông qua sự hỗ trợ của trí tuệ nhân tạo (Gemini AI) và định dạng tài liệu số thông minh.
+
+Tính năng nổi bật dành cho học viên:
+- Học tập đa dạng qua Video bài giảng YouTube tích hợp.
+- Trợ lý AI học tập 24/7: Giải thích các khái niệm khó, tóm tắt giáo trình, tạo câu hỏi trắc nghiệm tự kiểm tra kiến thức của học viên.
+- Giáo trình định dạng chuẩn sư phạm tự động chuyển đổi từ file Word (.docx) và liên kết Google Drive trực quan.
+- Đăng ký và quản lý subscription đơn giản, an toàn qua Google Play Billing.
+
+Dành cho giảng viên & Admin:
+- Soạn thảo và đăng tải khóa học siêu tốc.
+- Upload tài liệu .docx và để Trí tuệ nhân tạo (AI) tự động trích xuất cấu trúc Markdown sư phạm chi tiết chỉ trong vài giây.
+
+Hãy tải E-Learn AI ngay hôm nay để trải nghiệm môi trường học tập cá nhân hóa vượt trội!
+
+2. PHÂN LOẠI & THUỘC TÍNH (CATEGORY & TAGS)
+----------------------------------------------------------------------
+Chuyên mục chính (Application Category): Giáo dục (Education)
+Thẻ tìm kiếm (Tags): Học trực tuyến, Trợ lý AI, Giáo dục thông minh, React, Lập trình.
+Đối tượng mục tiêu (Target Audience): Từ 13 tuổi trở lên.
+
+3. THÔNG TIN LIÊN HỆ & HỖ TRỢ (CONTACT INFO)
+----------------------------------------------------------------------
+Email liên hệ (Support Email): tranchanhtrung@gmail.com
+Trang web hỗ trợ (Support Website): https://ais-pre-5wl6jli2ys7c655aifdn6b-1029469857270.asia-southeast1.run.app
+Chính sách bảo mật (Privacy Policy URL): https://ais-pre-5wl6jli2ys7c655aifdn6b-1029469857270.asia-southeast1.run.app/privacy-policy
+
+4. ĐỊNH CẤU HÌNH GÓI SUBSCRIPTION TRÊN GOOGLE PLAY CONSOLE
+----------------------------------------------------------------------
+Vui lòng thiết lập các gói In-App Purchase / Subscription ID trong Google Play Console như sau:
+- ID Sản phẩm 1: `sub_premium_course_monthly`
+  + Tên: Đăng ký Học phần Đơn lẻ (Course Subscription)
+  + Mô tả: Mở khóa quyền học tập không giới hạn cho một khóa học chuyên sâu được chọn.
+  + Mức giá gợi ý: 199,000 VND / tháng
+- ID Sản phẩm 2: `sub_elearn_pro_yearly`
+  + Tên: Gói E-Learn AI Pro (Pro Yearly Package)
+  + Mô tả: Truy cập toàn bộ danh sách khóa học hiện có và các tính năng tương tác không giới hạn với Trợ lý AI.
+  + Mức giá gợi ý: 499,000 VND / năm
+- ID Sản phẩm 3: `sub_elearn_lifetime`
+  + Tên: Gói E-Learn Trọn Đời (Lifetime License)
+  + Mô tả: Sở hữu trọn đời toàn bộ học phần trong hệ thống, ưu tiên giảng viên chấm bài trực tiếp.
+  + Mức giá gợi ý: 999,000 VND
+======================================================================
